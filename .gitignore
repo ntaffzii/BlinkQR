@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Extension Build Files (เผื่ออนาคตคุณบีบอัดไฟล์ zip ในโฟลเดอร์นี้)
+*.zip
+*.crx
+*.nex
+*.xpi
