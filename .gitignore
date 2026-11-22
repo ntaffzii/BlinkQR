@@ -13,6 +13,7 @@ Thumbs.db
 *.swp
 
 # Extension Build Files (เผื่ออนาคตคุณบีบอัดไฟล์ zip ในโฟลเดอร์นี้)
+dist/
 *.zip
 *.crx
 *.nex
